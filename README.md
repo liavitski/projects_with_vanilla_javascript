@@ -1,1 +1,1 @@
-Learning JavaScript by building these projects.
+#### Learning JavaScript by building projects (Brad Traversy)
